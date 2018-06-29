@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="varden">#FEF0D5</color>
+    <color name="irisBlue">#00BEB2</color>
+    <color name="cerise">#D81E5B</color>
+    <color name="blueStone">#1A5D63</color>
+</resources>
