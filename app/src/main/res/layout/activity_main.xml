@@ -9,7 +9,7 @@
     <android.support.design.widget.FloatingActionButton
             android:layout_width="64dp"
             android:layout_height="58dp"
-            android:clickable="true" app:srcCompat="@mipmap/ic_launcher"
+            android:clickable="true"
             android:id="@+id/nextActionButton" android:layout_marginTop="8dp"
             app:layout_constraintTop_toTopOf="parent" app:layout_constraintBottom_toBottomOf="parent"
             android:layout_marginBottom="8dp" app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"

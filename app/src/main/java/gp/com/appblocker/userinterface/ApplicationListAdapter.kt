@@ -16,7 +16,7 @@ import gp.com.appblocker.backend.ApplicationInfoWrapper
  * Just overriding the class so that the custom elements can be added to the given list.
  */
 class ApplicationListAdapter : ArrayAdapter<ApplicationInfoWrapper> {
-    public constructor(context: Context,resource: Int,list: List<ApplicationInfoWrapper>) : super(context,0,list)
+    public constructor(context: Context,list: List<ApplicationInfoWrapper>) : super(context,0,list)
 
     override fun getView(position: Int, convertView: View?, parent: ViewGroup?): View {
 
